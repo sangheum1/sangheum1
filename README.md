@@ -35,13 +35,16 @@ Here are some ideas to get you started:
 <div>
 <a href="https://github.com/PHP-506-4/PHP_1STPJ" target="_blank"><strong>[1차 프로젝트]</strong>
   <br/>
-  : 목표 설정을 위한 to do list
+  => 목표 설정을 위한 to do list
 </a>
 </div>
 <br/>
 
 <div>
-<a href="https://github.com/PHP-506-2nd-6/commanine" target="_blank"><strong>[2~3차 프로젝트]</strong></a>
+<a href="https://github.com/PHP-506-2nd-6/commanine" target="_blank"><strong>[2~3차 프로젝트]</strong>
+  <br/>
+  => 한옥 숙박 예약 사이트
+</a>
 </div>
 
 </div>
