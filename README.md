@@ -20,12 +20,19 @@ Here are some ideas to get you started:
 #### :fire: Portfolio :fire:
 
 <div>
-    <p><a href="https://github.com/sangheum1/PHPFULLSTACK"><strong>[지금까지 배운 자료]</strong></a></p>
-
-    <p><a href="https://github.com/sangheum1/mini_board"><strong>[퓨어 PHP로 게시판 구현]</strong></a></p>
-
-    <p><a href="https://github.com/PHP-506-4/PHP_1STPJ"><strong>[1차 프로젝트]</strong></a></p>
-
-    <p><a href="https://github.com/PHP-506-2nd-6/commanine"><strong>[2~3차 프로젝트]</strong></a></p>
-
+<a href="https://github.com/sangheum1/PHPFULLSTACK" target="_blank"><strong>[지금까지 배운 자료]</strong></a>
 </div>
+
+<div>
+<a href="https://github.com/sangheum1/mini_board" target="_blank"><strong>[퓨어 PHP로 게시판 구현]</strong></a>
+</div>
+
+<div>
+<a href="https://github.com/PHP-506-4/PHP_1STPJ" target="_blank"><strong>[1차 프로젝트]</strong></a>
+</div>
+
+<div>
+<a href="https://github.com/PHP-506-2nd-6/commanine" target="_blank"><strong>[2~3차 프로젝트]</strong></a>
+</div>
+
+
